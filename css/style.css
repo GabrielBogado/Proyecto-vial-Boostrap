@@ -1,0 +1,90 @@
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(0deg,
+    rgba(0,0,0,0.5) , rgba(0,0,0,0.5))
+    ,url(/media/background/pruebaback.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.colorLogo{
+    color:yellow;
+}
+
+.amarilloHoy{
+    color: yellow;
+}
+
+.heroContainer{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5))
+    ,url(/media/img-index/hero.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    margin: 0;
+    padding: 0;
+}
+
+
+.containerTarjeta{
+    height: 70vh;
+}
+.moto{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5))
+    ,url(/media/img-index/consejoCasco.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px 0;
+}
+
+.noche{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5))
+    ,url(/media/img-index/noche.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px 0;
+}
+
+.niños{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5))
+    ,url(/media/img-index/niños.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px 0;
+}
+
+#container-formulario{
+    width: 80%;
+    border: solid 1px white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.botonEnviar{
+    margin-top: 10px;
+}
+
+footer{
+    margin-top: 10px;
+}
+
+.containerImagenes img{
+    width: 100px;
+    height: 150px;
+}
+
+.recoImg img{
+    width: 70%;
+ height: 340px;
+}
