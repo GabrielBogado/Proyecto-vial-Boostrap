@@ -1,3 +1,4 @@
+/* INICIO AGREGANDO CONFIGURACION GENERAL */
 html{
     margin: 0;
     padding: 0;
@@ -13,6 +14,17 @@ body{
     background-attachment: fixed;
 }
 
+/* FIN AGREGANDO CONFIGURACION GENERAL */
+
+/* INICIO CONFIGURACION FOOTER */
+footer{
+    margin-top: 10px;
+}
+
+/* FIN CONFIGURACION FOOTER */
+
+
+/* INICIO CONFIGURACION INDEX */
 
 .colorLogo{
     color:yellow;
@@ -75,10 +87,10 @@ body{
     margin-top: 10px;
 }
 
-footer{
-    margin-top: 10px;
-}
+/* FIN CONFIGURACION INDEX */
 
+
+/* INICIO CONFIGURACION IMAGENES GENERAL */
 .containerImagenes img{
     width: 100px;
     height: 150px;
@@ -88,3 +100,5 @@ footer{
     width: 70%;
  height: 340px;
 }
+
+/* FIN CONFIGURACION IMAGENES GENERAL */
